@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main(void)
+{
+  int i,j;
+  printf("«Î ‰»Îi,jµƒ÷µ:");
+  scanf("%d %d",&i,&j);
+  printf("i=%d,j=%d\n",i,j); 
+  system("PAUSE");	
+  return 0;
+}
