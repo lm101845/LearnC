@@ -13,6 +13,7 @@ yarn-error.log*
 *.sln
 *.vscode
 *.history
+*.exe
 
 00-经典书籍
 00-经典书籍/

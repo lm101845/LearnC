@@ -1,2 +1,0 @@
-﻿02-内存泄露死机.obj : error LNK2005: main 已经在 01-HelloWorld.obj 中定义
-D:\02-looking for job\00-Project\07-LearnC★\LearnC\01-郝斌C语言(启蒙老师)\03-代码手敲\day01\x64\Debug\day01.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
