@@ -10,5 +10,6 @@ yarn-error.log*
 *.vscode
 *.history
 *.exe
+*.vs
 
 C Primer Plus 第6版 中文版.pdf
