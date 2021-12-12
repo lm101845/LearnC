@@ -30,6 +30,15 @@
     <ClCompile Include="野指针3.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="指针片段.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="指针片段2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="避免野指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="C语言.licenseheader" />
