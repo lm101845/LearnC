@@ -6,9 +6,9 @@ int i,j;
 scanf("%d %d", &i, &j);
 
 if (i>j)
-	printf("i大于j\n");
+	printf("i锟斤拷锟斤拷j\n");
 else
- 	printf("i小于j\n");
+ 	printf("i小锟斤拷j\n");
 
 system("pause");
 return 0;
