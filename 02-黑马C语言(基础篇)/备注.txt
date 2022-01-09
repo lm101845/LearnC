@@ -4,4 +4,7 @@ https://www.bilibili.com/video/BV1ji4y137UG?p=1
 
 发现一个很好的网站：C语言中文网——http://c.biancheng.net/view/1714.html
 
-第27节看完。
+第27集看完。
+第30集看完。——2022.01.09
+
+电脑重装了一下系统，因为对visual studio软件不熟悉，发现02-代码手敲无法启动项目，所以又新建了一个03-代码手敲，敲接下来的代码。

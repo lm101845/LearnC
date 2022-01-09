@@ -39,6 +39,22 @@ void test01()
 	//常见的ASCII码  
 	//a-97  A-65  0-48
 }
+
+
+//大小写转换
+void test02()
+{
+	char ch = 'a';
+	printf("转换前ch=%c\n", ch);
+	//a 97  A 65  差值32
+	ch = ch - 32;    //重新给ch进行一个赋值
+	printf("转换前ch=%c\n", ch);
+
+	char ch2 = 'Z';
+	printf("转换前ch=%c\n", ch2);
+	ch2 = ch2 + 32;
+	printf("转换前ch=%c\n", ch2);
+}
 int main()
 {
 	test01();
