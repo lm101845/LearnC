@@ -1,4 +1,5 @@
-﻿  01-数据类型.c
-E:\01-code\07-LearnC★\LearnC\02-黑马C语言(基础篇)\03-代码手敲\01-数据类型\01-数据类型.c(40,1): warning C4305: “初始化”: 从“double”到“float”截断
-E:\01-code\07-LearnC★\LearnC\02-黑马C语言(基础篇)\03-代码手敲\01-数据类型\01-数据类型.c(55,1): warning C4305: “初始化”: 从“double”到“float”截断
-  01-数据类型.vcxproj -> E:\01-code\07-LearnC★\LearnC\02-黑马C语言(基础篇)\03-代码手敲\Debug\01-数据类型.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(01-数据类型.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  01-数据类型_浮点型.c
+E:\01-code\07-LearnC★\LearnC\02-黑马C语言(基础篇)\03-代码手敲\01-数据类型\01-数据类型_浮点型.c(40,1): warning C4305: “初始化”: 从“double”到“float”截断
+E:\01-code\07-LearnC★\LearnC\02-黑马C语言(基础篇)\03-代码手敲\01-数据类型\01-数据类型_浮点型.c(55,1): warning C4305: “初始化”: 从“double”到“float”截断
+  01-数据类型.vcxproj -> E:\01-code\07-LearnC★\LearnC\02-黑马C语言(基础篇)\03-代码手敲\Debug\01-数据类型_浮点型.exe

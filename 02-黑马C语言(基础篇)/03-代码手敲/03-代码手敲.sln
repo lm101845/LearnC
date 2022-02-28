@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01-数据类型", "01-数据类型\01-数据类型.vcxproj", "{4F2BABE9-E43E-4CC2-8517-00721EADAD68}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01-数据类型_浮点型", "01-数据类型\01-数据类型.vcxproj", "{4F2BABE9-E43E-4CC2-8517-00721EADAD68}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-指针和数组", "02-指针和数组\02-指针和数组.vcxproj", "{43644815-DF57-4057-9050-74F832D5D817}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03-指针数组", "03-指针数组\03-指针数组.vcxproj", "{275B9748-E88D-4FA8-9B8D-A3AC9BCE4309}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,22 @@ Global
 		{4F2BABE9-E43E-4CC2-8517-00721EADAD68}.Release|x64.Build.0 = Release|x64
 		{4F2BABE9-E43E-4CC2-8517-00721EADAD68}.Release|x86.ActiveCfg = Release|Win32
 		{4F2BABE9-E43E-4CC2-8517-00721EADAD68}.Release|x86.Build.0 = Release|Win32
+		{43644815-DF57-4057-9050-74F832D5D817}.Debug|x64.ActiveCfg = Debug|x64
+		{43644815-DF57-4057-9050-74F832D5D817}.Debug|x64.Build.0 = Debug|x64
+		{43644815-DF57-4057-9050-74F832D5D817}.Debug|x86.ActiveCfg = Debug|Win32
+		{43644815-DF57-4057-9050-74F832D5D817}.Debug|x86.Build.0 = Debug|Win32
+		{43644815-DF57-4057-9050-74F832D5D817}.Release|x64.ActiveCfg = Release|x64
+		{43644815-DF57-4057-9050-74F832D5D817}.Release|x64.Build.0 = Release|x64
+		{43644815-DF57-4057-9050-74F832D5D817}.Release|x86.ActiveCfg = Release|Win32
+		{43644815-DF57-4057-9050-74F832D5D817}.Release|x86.Build.0 = Release|Win32
+		{275B9748-E88D-4FA8-9B8D-A3AC9BCE4309}.Debug|x64.ActiveCfg = Debug|x64
+		{275B9748-E88D-4FA8-9B8D-A3AC9BCE4309}.Debug|x64.Build.0 = Debug|x64
+		{275B9748-E88D-4FA8-9B8D-A3AC9BCE4309}.Debug|x86.ActiveCfg = Debug|Win32
+		{275B9748-E88D-4FA8-9B8D-A3AC9BCE4309}.Debug|x86.Build.0 = Debug|Win32
+		{275B9748-E88D-4FA8-9B8D-A3AC9BCE4309}.Release|x64.ActiveCfg = Release|x64
+		{275B9748-E88D-4FA8-9B8D-A3AC9BCE4309}.Release|x64.Build.0 = Release|x64
+		{275B9748-E88D-4FA8-9B8D-A3AC9BCE4309}.Release|x86.ActiveCfg = Release|Win32
+		{275B9748-E88D-4FA8-9B8D-A3AC9BCE4309}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
