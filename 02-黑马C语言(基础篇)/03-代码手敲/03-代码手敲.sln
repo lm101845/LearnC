@@ -17,6 +17,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06-结构体赋值、交换
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07-内存操作函数", "07-内存操作函数\07-内存操作函数.vcxproj", "{9EB7926E-D08B-4547-93A1-174164C7B826}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08-使用malloc实现动态数组", "08-使用malloc实现动态数组\08-使用malloc实现动态数组.vcxproj", "{42A5C083-BAEF-45F4-A28A-A34812E0F497}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09-内存操作注意事项", "09-内存操作注意事项\09-内存操作注意事项.vcxproj", "{B5817556-4242-4DB3-B4C2-30966B857D6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +85,22 @@ Global
 		{9EB7926E-D08B-4547-93A1-174164C7B826}.Release|x64.Build.0 = Release|x64
 		{9EB7926E-D08B-4547-93A1-174164C7B826}.Release|x86.ActiveCfg = Release|Win32
 		{9EB7926E-D08B-4547-93A1-174164C7B826}.Release|x86.Build.0 = Release|Win32
+		{42A5C083-BAEF-45F4-A28A-A34812E0F497}.Debug|x64.ActiveCfg = Debug|x64
+		{42A5C083-BAEF-45F4-A28A-A34812E0F497}.Debug|x64.Build.0 = Debug|x64
+		{42A5C083-BAEF-45F4-A28A-A34812E0F497}.Debug|x86.ActiveCfg = Debug|Win32
+		{42A5C083-BAEF-45F4-A28A-A34812E0F497}.Debug|x86.Build.0 = Debug|Win32
+		{42A5C083-BAEF-45F4-A28A-A34812E0F497}.Release|x64.ActiveCfg = Release|x64
+		{42A5C083-BAEF-45F4-A28A-A34812E0F497}.Release|x64.Build.0 = Release|x64
+		{42A5C083-BAEF-45F4-A28A-A34812E0F497}.Release|x86.ActiveCfg = Release|Win32
+		{42A5C083-BAEF-45F4-A28A-A34812E0F497}.Release|x86.Build.0 = Release|Win32
+		{B5817556-4242-4DB3-B4C2-30966B857D6A}.Debug|x64.ActiveCfg = Debug|x64
+		{B5817556-4242-4DB3-B4C2-30966B857D6A}.Debug|x64.Build.0 = Debug|x64
+		{B5817556-4242-4DB3-B4C2-30966B857D6A}.Debug|x86.ActiveCfg = Debug|Win32
+		{B5817556-4242-4DB3-B4C2-30966B857D6A}.Debug|x86.Build.0 = Debug|Win32
+		{B5817556-4242-4DB3-B4C2-30966B857D6A}.Release|x64.ActiveCfg = Release|x64
+		{B5817556-4242-4DB3-B4C2-30966B857D6A}.Release|x64.Build.0 = Release|x64
+		{B5817556-4242-4DB3-B4C2-30966B857D6A}.Release|x86.ActiveCfg = Release|Win32
+		{B5817556-4242-4DB3-B4C2-30966B857D6A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
