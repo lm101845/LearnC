@@ -1,2 +1,3 @@
-﻿  05-初识字符串.c
+﻿  10-初识数组.c
+E:\01-code\07-LearnC★\LearnC\03-鹏哥C语言\02-代码手敲\知识初识\10-初识数组.c(12,12): warning C4133: “函数”: 从“int [10]”到“const char *const ”的类型不兼容
   知识初识.vcxproj -> E:\01-code\07-LearnC★\LearnC\03-鹏哥C语言\02-代码手敲\知识初识\Debug\知识初识.exe
