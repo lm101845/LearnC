@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="10-初识数组.c">
+    <ClCompile Include="11-初识操作符2.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
