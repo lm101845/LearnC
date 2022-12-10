@@ -101,31 +101,107 @@
 //}
 
 
+//int main()
+//{
+//	int a = 3;
+//	int b = 5;
+//	//交换
+//	// 
+//	printf("a=%d b=%d\n", a, b);
+//	a = a ^ b;
+//	b = a ^ b;
+//	a = a ^ b;
+//	printf("a=%d b=%d\n", a, b);
+//
+//	//printf("a = %d b = %d\n", a, b);
+//	////数值太大会溢出
+//	//a = a + b;
+//	//b = a - b;
+//	//a = a - b;
+//	//printf("a = %d b = %d\n", a, b);
+//
+//	//int c = 0;//空瓶
+//	//printf("a = %d b = %d\n", a, b);
+//	//c = a;
+//	//a = b;
+//	//b = c;
+//	//printf("a = %d b = %d\n", a, b);
+//	system("pause");
+//	return 0;
+//}
+
+//int  main()
+//{
+//	short s = 5;
+//	int a = 10;
+//	printf("%d\n", sizeof(s = a + 2));//
+//	printf("%d\n", s);//
+//
+//	//int a = 10;
+//	//int arr[10] = { 0 };
+//	//printf("%d\n", sizeof(arr));//单位是字节
+//	//printf("%d\n", sizeof(int [10]));//40 - int [10]是arr数组的类型
+//
+//
+//	//printf("%d\n", sizeof(a));//计算a所占空间的大小，单位是字节
+//	//printf("%d\n", sizeof(int));
+//	//printf("%d\n", sizeof a);
+//	//sizeof是一个操作符，不是函数
+//
+//	return 0;
+//}
+
+//int main()
+//{
+//	int a = -1;
+//	//10000000000000000000000000000001 - 原码
+//	//11111111111111111111111111111110 - 反码
+//	//11111111111111111111111111111111 - 补码
+//	//~ 按位取反
+//	//11111111111111111111111111111111
+//	//00000000000000000000000000000000
+//	//
+//	int b = ~a;
+//	printf("%d\n", a);
+//	printf("%d\n", b);
+//
+//	return 0;
+//}
+
+//int main()
+//{
+//	int a = 10;
+//	printf("%d\n", a--);//10
+//	printf("%d\n", a);//9
+//
+//	//int b = a++;//后置++，先使用，再++
+//	//int b = ++a;//前置++，  先++，后使用
+//
+//	//int b = a--;//后置--，先使用，后--
+//	//int b = --a;
+//	//printf("%d\n", a);//
+//	//printf("%d\n", b);//
+//
+//	return 0;
+//}
+
+
+//int main()
+//{
+//	int a = 10;
+//	printf("%p\n", &a);//& - 取地址操作符
+//	int * pa = &a;//pa是用来存放地址的 - pa就是一个指针变量
+//	*pa = 200;//* - 解引用操作符 - 间接访问操作符
+//	printf("%d\n", a);//20
+//
+//	return 0;
+//}
+
 int main()
 {
-	int a = 3;
-	int b = 5;
-	//交换
-	// 
-	printf("a=%d b=%d\n", a, b);
-	a = a ^ b;
-	b = a ^ b;
-	a = a ^ b;
-	printf("a=%d b=%d\n", a, b);
+	int a = (int)3.14;
 
-	//printf("a = %d b = %d\n", a, b);
-	////数值太大会溢出
-	//a = a + b;
-	//b = a - b;
-	//a = a - b;
-	//printf("a = %d b = %d\n", a, b);
-
-	//int c = 0;//空瓶
-	//printf("a = %d b = %d\n", a, b);
-	//c = a;
-	//a = b;
-	//b = c;
-	//printf("a = %d b = %d\n", a, b);
-	system("pause");
 	return 0;
 }
+
+//数组传参，传的其实是数组第一个元素的地址

@@ -1,2 +1,10 @@
-﻿  29-初识操作符1.c
+﻿  29-初识操作符2.c
+E:\01-code\07-LearnC★\LearnC\03-鹏哥C语言\02-代码手敲\知识初识\29-初识操作符2.c(10,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\01-code\07-LearnC★\LearnC\03-鹏哥C语言\02-代码手敲\知识初识\29-初识操作符2.c(10,9): message : 请考虑在格式字符串中使用“%zd”
+E:\01-code\07-LearnC★\LearnC\03-鹏哥C语言\02-代码手敲\知识初识\29-初识操作符2.c(15,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\01-code\07-LearnC★\LearnC\03-鹏哥C语言\02-代码手敲\知识初识\29-初识操作符2.c(15,9): message : 请考虑在格式字符串中使用“%zd”
+E:\01-code\07-LearnC★\LearnC\03-鹏哥C语言\02-代码手敲\知识初识\29-初识操作符2.c(22,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\01-code\07-LearnC★\LearnC\03-鹏哥C语言\02-代码手敲\知识初识\29-初识操作符2.c(22,9): message : 请考虑在格式字符串中使用“%zd”
+E:\01-code\07-LearnC★\LearnC\03-鹏哥C语言\02-代码手敲\知识初识\29-初识操作符2.c(23,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\01-code\07-LearnC★\LearnC\03-鹏哥C语言\02-代码手敲\知识初识\29-初识操作符2.c(23,9): message : 请考虑在格式字符串中使用“%zd”
   知识初识.vcxproj -> E:\01-code\07-LearnC★\LearnC\03-鹏哥C语言\02-代码手敲\知识初识\x64\Debug\知识初识.exe
