@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01-指针.c">
+    <ClCompile Include="02-指针.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

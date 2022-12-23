@@ -81,17 +81,17 @@
 //	return EXIT_SUCCESS;
 //}
 
-int main()
-{
-	int arr[10] = { 0 };
-	int* p = arr;
-	for (int i = 0; i < 10; i++)
-	{
-		*(p + i) = 1;
-	}
-	system("pause");
-	return EXIT_SUCCESS;
-}
+//int main()
+//{
+//	int arr[10] = { 0 };
+//	int* p = arr;
+//	for (int i = 0; i < 10; i++)
+//	{
+//		*(p + i) = 1;
+//	}
+//	system("pause");
+//	return EXIT_SUCCESS;
+//}
 
 
 //int main()
