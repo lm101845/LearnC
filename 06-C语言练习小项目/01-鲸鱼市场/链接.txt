@@ -1,0 +1,8 @@
+代码仓库1：https://github.com/201220014/WhaleMarket——主要是这个
+代码仓库2：https://github.com/201220014/WhaleMarket-Framework——这个我看好像没啥用
+网址：https://cui-jiacai.gitbook.io/whale-market/
+
+为了区分，我自己的项目取名叫BlueWhaleMarket，我准备根据作者的初始提交，一步一步摘抄他的代码，
+遇到不熟悉的知识点，就自己去搜，并做笔记保存下来。
+
+
