@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="05-结构体.c">
+    <ClCompile Include="06-调试技巧.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
