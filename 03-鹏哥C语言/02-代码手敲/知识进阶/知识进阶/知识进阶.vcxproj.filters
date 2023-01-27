@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="06-调试技巧.c">
+    <ClCompile Include="09-模拟字符串拷贝.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
