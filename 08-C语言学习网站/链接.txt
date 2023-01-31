@@ -2,3 +2,5 @@
 在线运行：https://www.runoob.com/try/runcode.php?filename=helloworld&type=c
 
 C语言教程-C数据类型看完——23-01-07
+C变量-C存储类看完——23-01-30
+C运算符-C指针看完——23-01-31
