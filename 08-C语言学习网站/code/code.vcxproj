@@ -141,7 +141,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="04-共用体-访问共用体成员2.c" />
+    <ClCompile Include="06-typedef-与define的区别.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
