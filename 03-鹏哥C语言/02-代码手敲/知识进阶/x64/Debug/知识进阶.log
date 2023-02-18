@@ -1,2 +1,5 @@
-﻿  18-指针进阶7-1.c
+﻿  20-指针练习1.c
+E:\01-code\07-LearnC\LearnC\03-鹏哥C语言\02-代码手敲\知识进阶\20-指针练习1.c(82,34): warning C4311: “类型强制转换”: 从“Test *”到“unsigned long”的指针截断
+E:\01-code\07-LearnC\LearnC\03-鹏哥C语言\02-代码手敲\知识进阶\20-指针练习1.c(82,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“unsigned long”
+E:\01-code\07-LearnC\LearnC\03-鹏哥C语言\02-代码手敲\知识进阶\20-指针练习1.c(82,9): warning C4313: “printf”: 格式字符串中的“%p”与“unsigned long”类型的参数 1 冲突
   知识进阶.vcxproj -> E:\01-code\07-LearnC\LearnC\03-鹏哥C语言\02-代码手敲\知识进阶\x64\Debug\知识进阶.exe
