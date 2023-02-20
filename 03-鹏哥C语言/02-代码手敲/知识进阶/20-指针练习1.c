@@ -79,8 +79,8 @@ struct Test
 int main()
 {
 	printf("%p\n", p + 0x1);
-	printf("%p\n", (unsigned long)p + 0x1);
-	printf("%p\n", (unsigned int*)p + 0x1);
+	printf("%p\n", (unsigned long)p + 0x1);  //p被强制类型转换为整型了，所以+1就是+1
+	printf("%p\n", (unsigned int*)p + 0x1);  //p被强制类型转换为无符号整型指针，+1加的是4
 	system("pause");
 	return EXIT_SUCCESS;
 }
