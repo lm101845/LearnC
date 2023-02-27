@@ -1,4 +1,12 @@
-﻿  24-结构体4.c
-E:\01-code\07-LearnC\LearnC\03-鹏哥C语言\02-代码手敲\知识进阶\24-结构体4.c(25,15): warning C4101: “s2”: 未引用的局部变量
-E:\01-code\07-LearnC\LearnC\03-鹏哥C语言\02-代码手敲\知识进阶\24-结构体4.c(25,11): warning C4101: “s1”: 未引用的局部变量
+﻿  24-结构体5.c
+E:\01-code\07-LearnC\LearnC\03-鹏哥C语言\02-代码手敲\知识进阶\24-结构体5.c(51,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\01-code\07-LearnC\LearnC\03-鹏哥C语言\02-代码手敲\知识进阶\24-结构体5.c(51,9): message : 请考虑在格式字符串中使用“%zd”
+E:\01-code\07-LearnC\LearnC\03-鹏哥C语言\02-代码手敲\知识进阶\24-结构体5.c(52,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\01-code\07-LearnC\LearnC\03-鹏哥C语言\02-代码手敲\知识进阶\24-结构体5.c(52,9): message : 请考虑在格式字符串中使用“%zd”
+E:\01-code\07-LearnC\LearnC\03-鹏哥C语言\02-代码手敲\知识进阶\24-结构体5.c(53,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\01-code\07-LearnC\LearnC\03-鹏哥C语言\02-代码手敲\知识进阶\24-结构体5.c(53,9): message : 请考虑在格式字符串中使用“%zd”
+E:\01-code\07-LearnC\LearnC\03-鹏哥C语言\02-代码手敲\知识进阶\24-结构体5.c(54,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\01-code\07-LearnC\LearnC\03-鹏哥C语言\02-代码手敲\知识进阶\24-结构体5.c(54,9): message : 请考虑在格式字符串中使用“%zd”
+E:\01-code\07-LearnC\LearnC\03-鹏哥C语言\02-代码手敲\知识进阶\24-结构体5.c(55,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\01-code\07-LearnC\LearnC\03-鹏哥C语言\02-代码手敲\知识进阶\24-结构体5.c(55,9): message : 请考虑在格式字符串中使用“%zd”
   知识进阶.vcxproj -> E:\01-code\07-LearnC\LearnC\03-鹏哥C语言\02-代码手敲\知识进阶\x64\Debug\知识进阶.exe
