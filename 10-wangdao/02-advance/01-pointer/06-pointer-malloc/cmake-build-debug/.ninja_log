@@ -1,0 +1,11 @@
+# ninja log v6
+2	247	7582863262947367	CMakeFiles/06_pointer_malloc.dir/main.c.obj	5e04ba7b090da463
+248	544	7582863265405564	06_pointer_malloc.exe	78a02f41595a4656
+3	231	7582863557215711	CMakeFiles/06_pointer_malloc.dir/main.c.obj	5e04ba7b090da463
+232	513	7582863559495959	06_pointer_malloc.exe	78a02f41595a4656
+4	237	7582863933857522	CMakeFiles/06_pointer_malloc.dir/main.c.obj	5e04ba7b090da463
+237	528	7582863936189624	06_pointer_malloc.exe	78a02f41595a4656
+3	508	7582864427401236	CMakeFiles/06_pointer_malloc.dir/main.c.obj	5e04ba7b090da463
+509	796	7582864432458114	06_pointer_malloc.exe	78a02f41595a4656
+3	233	7582865578297632	CMakeFiles/06_pointer_malloc.dir/main.c.obj	5e04ba7b090da463
+234	525	7582865580608518	06_pointer_malloc.exe	78a02f41595a4656

@@ -1,0 +1,9 @@
+# ninja log v6
+1	269	7582868949641188	CMakeFiles/07_heap_stack.dir/main.c.obj	84f639b62bdc894d
+270	640	7582868952317945	07_heap_stack.exe	9d9e9feacd356abc
+2	225	7582869080529045	CMakeFiles/07_heap_stack.dir/main.c.obj	84f639b62bdc894d
+226	512	7582869082762081	07_heap_stack.exe	9d9e9feacd356abc
+3	240	7582869596954244	CMakeFiles/07_heap_stack.dir/main.c.obj	84f639b62bdc894d
+241	574	7582869599335567	07_heap_stack.exe	9d9e9feacd356abc
+3	239	7582872700485333	CMakeFiles/07_heap_stack.dir/main.c.obj	84f639b62bdc894d
+240	566	7582872702856799	07_heap_stack.exe	9d9e9feacd356abc
